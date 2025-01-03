@@ -1,5 +1,9 @@
 # Simple Data Labeler
 
+I was kind of annoyed that there didn't seem to be any dead-simple tools for human labeling of text data, so I created this command-line tool for the purpose.
+
+## Usage
+
 1. Clone this repository with `git clone https://github.com/chriscarrollsmith/simple-data-labeler.git`.
 1. Put your CSV file in the folder. The CSV file should have text data you want to label in the left column, and empty columns (with named headers) for the fields you want to fill in.
 1. Open a terminal in the folder. (On most systems, you can right-click in the folder in your Finder or Explorer window and select "Open in Terminal".)
